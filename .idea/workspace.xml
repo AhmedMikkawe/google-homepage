@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e09cd0d-e716-4a21-abd2-16dc1b0a7098" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/iconfinder_mic-microphone-record-speak_2205213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/iconfinder_search_326690.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
@@ -67,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606564531880</updated>
-      <workItem from="1606564544881" duration="8231000" />
+      <workItem from="1606564544881" duration="9573000" />
     </task>
     <servers />
   </component>
