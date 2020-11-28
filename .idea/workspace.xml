@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e09cd0d-e716-4a21-abd2-16dc1b0a7098" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
@@ -50,6 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606564531880</updated>
-      <workItem from="1606564544881" duration="1729000" />
+      <workItem from="1606564544881" duration="4760000" />
     </task>
     <servers />
   </component>
@@ -83,5 +85,9 @@
       <screen x="-1366" y="0" width="1366" height="738" />
     </state>
     <state x="-953" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1606573360178" />
+    <state x="-1182" y="13" key="SettingsEditor" timestamp="1606574087732">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1182" y="13" key="SettingsEditor/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1606574087732" />
   </component>
 </project>

@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.nav {
+    display: flex;
+    justify-content:flex-end;
+}
+
+.nav ul{
+    list-style-type: none;
+
+}
+.nav ul li{
+    float: left;
+    margin: 10px;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.app-icon{
+    width: 20px;
+}
+.profile-pic{
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    position: relative;
+    top: -8px;
+}
+.clear-fix{
+    clear: both;
+}
