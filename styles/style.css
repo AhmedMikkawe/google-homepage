@@ -31,3 +31,55 @@
 .clear-fix{
     clear: both;
 }
+.main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column
+}
+.pic-container{
+    width: 100%;
+}
+.google-logo{
+    margin: 50px auto;
+    display: block;
+}
+.search-icon{
+    width: 45px;
+    border-left: 4px solid black;
+    border-radius: 50%;
+    position: relative;
+    left: 33px;
+    top: 10px;
+    padding: 10px;
+
+
+}
+
+.microphone-icon{
+    width: 45px;
+    border-right: 4px solid black;
+    border-radius: 50%;
+    position: relative;
+    right: 33px;
+    top: 10px;
+    padding: 10px;}
+.search{
+    font-size: 30px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    padding-left: 25px;
+}
+.buttons-container{
+    margin: 15px auto;
+    padding-left: 110px;
+}
+.buttons-container input{
+    background-color: #f9fafb;
+    padding: 10px;
+    border: none;
+}
+
